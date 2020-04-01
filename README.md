@@ -38,8 +38,9 @@ pip3 install -r requirements.txt
 
 ##### Step 2:
 - Run on CLI ```aws configure```
-- Configure your AWS Keys in [synthesizerfile.py](https://github.com/kashishshah881/datasynthesis/blob/master/synthesizerfile.py#L43-#L44) 
-- Configure your AWS S3 Bucket in [streamlit.py](https://github.com/kashishshah881/datasynthesis/blob/master/streamlit.py#L21), [data.py](https://github.com/kashishshah881/datasynthesis/blob/master/data.py#L10) and [synthesizerfile.py](https://github.com/kashishshah881/datasynthesis/blob/master/synthesizerfile.py#L37)
+- Configure your AWS Keys in [synthesizerfile.py](https://github.com/Dhruv-Panchal/Data-Synthesis-and-Benchmark/blob/master/synthesizerfile.py#L43-#L44) 
+
+- Configure your AWS S3 Bucket in [streamlit.py](https://github.com/Dhruv-Panchal/Data-Synthesis-and-Benchmark/blob/master/streamlit.py#L21), [data.py](https://github.com/kashishshah881/datasynthesis/blob/master/data.py#L10) and [synthesizerfile.py](https://github.com/Dhruv-Panchal/Data-Synthesis-and-Benchmark/blob/master/synthesizerfile.py#L37)
   
 #### Step 3:
 - Run ```docker build .```
@@ -63,7 +64,7 @@ Deploying your application on kubernetes engine
   - Find the external IP of your Container <br> ```kubectl get svc ```
   
 #### Step 6:
- You are almost done. Copy the External IP Address from Step 5 and paste it in [streamlit.py](https://github.com/kashishshah881/datasynthesis/blob/master/streamlit.py#L152)
+ You are almost done. Copy the External IP Address from Step 5 and paste it in [streamlit.py](https://github.com/Dhruv-Panchal/Data-Synthesis-and-Benchmark/blob/master/streamlit.py#L152)
  
  Run on CLI  ```streamlit run streamlit.py ``` <br> 
  Voila!
