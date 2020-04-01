@@ -8,7 +8,7 @@ generators and then deploy them in production on the cloud. The need to synthesi
 
 ## Flowchart
 
-<img src="https://github.com/kashishshah881/datasynthesis/blob/master/data/flow.png" width="480">
+<img src="https://github.com/Dhruv-Panchal/datasynthesis/blob/master/data/flow.png" width="480">
 
 ## Getting Started
 
@@ -77,9 +77,10 @@ Deploying your application on kubernetes engine
 
 ## Authors
 
+* **Dhruv Panchal** - *Architect and Deployment* - [Linkedin](https://www.linkedin.com/in/panchaldhruv/)
 * **Kashish Shah** - *Design, Architect and Deployment* - [Linkedin](https://linkedin.com/in/shah-kashish)
 * **Manogana Mantripragada** - *Machine Learning Engineer* - [Linkedin](https://www.linkedin.com/in/manogna-mantripragada/)
-* **Dhruv Panchal** - *Architect and Deployment* - [Linkedin](https://www.linkedin.com/in/panchaldhruv/)
+
 
 
 
