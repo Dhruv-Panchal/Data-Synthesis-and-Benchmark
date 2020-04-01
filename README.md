@@ -8,7 +8,8 @@ generators and then deploy them in production on the cloud. The need to synthesi
 
 ## Flowchart
 
-<img src="https://github.com/Dhruv-Panchal/datasynthesis/blob/master/data/flow.png" width="480">
+<img src="https://github.com/Dhruv-Panchal/Data-Synthesis-and-Benchmark/blob/master/data/flow.png" width="480">
+
 
 ## Getting Started
 
